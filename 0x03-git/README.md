@@ -1,0 +1,1 @@
+This directory will hold most of my code snippets for ALX projects.
